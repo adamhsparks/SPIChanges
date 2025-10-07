@@ -1,3 +1,9 @@
+# SPIChanges v0.2.1
+
+## Patch Changes
+
+-   Fix little bug in regarding data in `TSAggreg()` function.
+
 # SPIChanges 0.2.0
 
 ## Minor Changes
