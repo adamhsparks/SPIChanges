@@ -2,7 +2,7 @@
 
 ## Patch Changes
 
--   Fix little bug in regarding data in `TSAggreg()` function.
+-   Fix little bug regarding data in `TSAggreg()` function.
 
 # SPIChanges 0.2.0
 
