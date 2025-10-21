@@ -2,7 +2,7 @@
 
 ## Patch Changes
 
--   Fix little bug regarding data in `TSAggreg()` function.
+-  improve `TSAggreg()` so that it can be computed before the end of the month.
 
 # SPIChanges 0.2.0
 
